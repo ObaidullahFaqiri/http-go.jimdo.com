@@ -1,2 +1,2 @@
 # http-go.jimdo.com
-Jimdo-subdomain takeover
+This account is take over
